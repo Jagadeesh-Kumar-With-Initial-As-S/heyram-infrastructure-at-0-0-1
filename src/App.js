@@ -38,8 +38,7 @@ class App extends Component {
                         id="section2"
                     >
                         <div>
-                            <center><video className="elementor-video" src="https://zprincesssaffron.com/wp-content/uploads/2023/09/WhatsApp-Video-2023-09-04-at-18.11.07.mp4" autoplay="" loop muted="muted" playsinline="" controlslist="nodownload"></video>
-                            </center>
+
                             <br />      <div style={{ color: "violet" }}>Our's</div>
                             Z Princess saffron produces and manufacture saffron from different countries. This company was opened in the year 2023. The Z Princess saffron is the 1st saffron brand in the Kashmir.
                             <br />           A1 Quality products are being exported and too costly to afford so we are helping our customer by providing high quality and fresh products at affordable prices with attractive packing
@@ -58,8 +57,7 @@ class App extends Component {
                     >
 
                         <div>
-                            <center><video className="elementor-video" src="https://zprincesssaffron.com/wp-content/uploads/2023/09/WhatsApp-Video-2023-09-04-at-18.11.07.mp4" autoplay="" loop muted="muted" playsinline="" controlslist="nodownload"></video>
-                            </center>
+
                             <div style={{ color: "violet" }}>Our Product</div>
                             Natural Spices Adding Magic to your Meal Makes you to recommend to Others is Guaranteed
                             <br />
